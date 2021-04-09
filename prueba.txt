@@ -1,5 +1,3 @@
 Hola soy Mauricio Fragachan
 
-Hola estoy aprendiendo git
-Hola estoy aprendiendo git
-Hola estoy aprendiendo git
+Hola estoy practicando con git
